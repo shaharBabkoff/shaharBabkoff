@@ -19,7 +19,7 @@
 
 ### 📌 Top Projects
 - [Project 1](https://github.com/shaharBabkoff/bite_front) – **Recipe social app** in **React**
-- [Project 2](https://github.com/shaharBabkoff/CPP_EX3) – **The Settlers of Catan game** in **C++**
+- [Project 2](https://github.com/shaharBabkoff/The-Settlers-of-Catan) – **The Settlers of Catan game** in **C++**
 - [Project 3](https://github.com/shaharBabkoff/OOP1) - **Knight Chess** in **Java**
 
 
