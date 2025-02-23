@@ -6,8 +6,8 @@
 
 ---
 
-### 🚀 About Me
-- I’m currently a Computer science student.
+### 🚀 About Me  
+- 🎓 I’m currently a **Computer Science student**.
   
 ---
 
@@ -18,8 +18,9 @@
 ---
 
 ### 📌 Top Projects
-- [Project 1](https://github.com/shaharBabkoff/bite_front) – recipe social app in react
-- [Project 2](https://github.com/shaharBabkoff/CPP_EX3) – The Settlers of Catan game in c++
-- [Project 3](https://github.com/shaharBabkoff/OOP1) - knight chess in java
+- [Project 1](https://github.com/shaharBabkoff/bite_front) – **Recipe social app** in **React**
+- [Project 2](https://github.com/shaharBabkoff/CPP_EX3) – **The Settlers of Catan game** in **C++**
+- [Project 3](https://github.com/shaharBabkoff/OOP1) - **Knight Chess** in **Java**
+
 
 ---
